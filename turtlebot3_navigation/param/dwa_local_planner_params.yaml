@@ -48,4 +48,4 @@ DWAPlannerROS:
  # global_frame_id: odom
 
 # Benchmark
-  benchmark_file_path: "/home/shaohua/Develop/dwa_data.txt"
+  dwa_benchmark_file_path: "/home/shaohua/Develop/dwa_data.txt"
