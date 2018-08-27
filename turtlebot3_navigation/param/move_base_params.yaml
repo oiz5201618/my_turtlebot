@@ -11,4 +11,4 @@ oscillation_distance: 0.2
 conservative_reset_dist: 0.10
 
 scored_sampling_threads_num: 8
-benchmark_data_file: "/home/shaohua/Develope/data.txt"
+benchmark_data_file: "/home/shaohua/Develop/data.txt"
